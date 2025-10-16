@@ -27,5 +27,12 @@ The principle is simple: **clean data in → quality insights out**.
 
 ---
 
-## 📂 Repository Structure
+---
+
+## 💻 How to Explore
+
+1. Clone the repository:
+```bash
+git clone https://github.com/vikaskushwaha97/Data_Science_And_Statistics.git
+
 
